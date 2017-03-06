@@ -2,3 +2,7 @@
                                     display: block;
                                     margin-left: auto;
                                     margin-right: auto"/>
+
+Data Science, Software Engineering 
+
+Haskell, Python, R, Groovy, Java
