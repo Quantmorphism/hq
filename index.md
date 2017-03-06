@@ -1,1 +1,1 @@
-![Image]("images/privbg.png")
+![Image](images/privbg.png)
