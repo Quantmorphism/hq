@@ -1,8 +1,7 @@
-<img src="images/privbg.png" style="width: 55%;
+<img src="images/privbg.png" style="width: 50%;
                                     display: block;
                                     margin-left: auto;
                                     margin-right: auto"/>
 
-Data Science, Software Engineering 
-
-Haskell, Python, R, Groovy, Java
+## Data Science, Software Engineering 
+### Haskell, Python, R, Groovy, Java
