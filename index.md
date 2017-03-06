@@ -1,1 +1,1 @@
-![Image](images/privbg.png =250x)
+<img src="images/privbg.png" style="width: 250px;"/>
