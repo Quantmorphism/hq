@@ -2,3 +2,5 @@
                                     display: block;
                                     margin-left: auto;
                                     margin-right: auto"/>
+
+intercalate "@" ["dan[dot]lucsanszky", "gmail[dot]com"]
