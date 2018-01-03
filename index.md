@@ -3,4 +3,4 @@
                                     margin-left: auto;
                                     margin-right: auto"/>
 
-intercalate "@" ["dan[dot]lucsanszky", "gmail[dot]com"]
+`intercalate "@" ["dan[dot]lucsanszky", "gmail[dot]com"]`
