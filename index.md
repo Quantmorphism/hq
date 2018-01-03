@@ -4,5 +4,5 @@
                                     margin-right: auto"/>
 
 ```
-intercalate "@" ["dan[dot]lucsanszky", "gmail[dot]com"]
+&#955;: intercalate "@" ["dan[dot]lucsanszky", "gmail[dot]com"]
 ```
