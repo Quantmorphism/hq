@@ -4,5 +4,5 @@
                                     margin-right: auto"/>
 
 ```
-\&#955; : 𝜆 intercalate "@" ["dan[dot]lucsanszky", "gmail[dot]com"]
+λ: intercalate "@" ["dan[dot]lucsanszky", "gmail[dot]com"]
 ```
